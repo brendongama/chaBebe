@@ -1,6 +1,7 @@
 body {
     max-width: 375px;
     margin: 0 auto !important;
+    background-color: white;
 }
 
 header {

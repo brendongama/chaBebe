@@ -5,7 +5,8 @@ body {
     align-content: flex-start;
     align-items: center;
     justify-content: center;
-    flex-direction: column;   
+    flex-direction: column;  
+    background-color: white; 
 }
 
 mat-card-title {
