@@ -1,0 +1,25 @@
+body {
+    max-width: 375px;
+    margin: 0 auto !important;
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;   
+}
+
+mat-card-title {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+  }
+
+  .itemNome {
+      padding-right: 50px;
+  }
+
+  button {
+    margin-top: 20px;
+  }

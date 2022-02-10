@@ -1,0 +1,32 @@
+body {
+    max-width: 375px;
+    margin: 0 auto !important;
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;   
+}
+
+mat-card-title {
+    margin-bottom: 20px;
+}
+
+mat-card {
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+  button {
+    margin-top: 20px;
+  }

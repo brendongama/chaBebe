@@ -1,0 +1,52 @@
+body {
+    max-width: 375px;
+    margin: 0 auto !important;
+}
+
+header {
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;    
+}
+
+main {
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    width: 100%;
+}
+
+main img {
+    margin-top: 20px;
+}
+
+.confirmaPresenca {
+    width: 90%;
+    cursor: pointer;
+}
+
+.presentes {
+    width: 20%;
+    cursor: pointer;
+}
+
+footer {
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 15px;
+}
+
+footer p {
+    font-weight: 900;
+    font-size: 29px;
+}
